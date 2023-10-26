@@ -19,6 +19,5 @@ HAP simply uses a plain ViT as the encoder yet establishes new state-of-the-art 
 
 
 ## Code
-<a href='https://github.com/junkunyuan/HAP'>[Github]</a>
-
+<a href='https://github.com/junkunyuan/HAP'>[HAP Github]</a>
 
