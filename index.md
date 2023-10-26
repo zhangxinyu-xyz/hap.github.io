@@ -25,4 +25,3 @@ HAP simply uses a plain ViT as the encoder yet establishes new state-of-the-art 
 ## Contact
 <a href='https://junkunyuan.github.io/'>Junkun Yuan</a>: yuanjk@zju.edu.cn <br />
 <a href='https://zhangxinyu-xyz.github.io/'>Xinyu Zhang</a>: xyzhang0717@gmail.com <br />
-
