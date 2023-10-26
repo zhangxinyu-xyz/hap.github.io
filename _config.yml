@@ -3,6 +3,7 @@ description: "Junkun Yuan<sup>*</sup>, Xinyu Zhang<sup>*#</sup>, Hao Zhou, Jian 
 description2: "<sup>1</sup>Zhejiang University <sup>2</sup>Baidu VIS <sup>3</sup>University of Science and Technology Beijing <sup>4</sup>South China University of Technology <sup>5</sup>Shanghai Jiao Tong University <sup>6</sup>Jilin University"
 description3: "<sup>*</sup>Equal contribution <sup>#</sup>Corresponding author"
 github:
+  is_project_page: true
   repository_url: https://github.com/junkunyuan/HAP
 show_downloads: true
 google_analytics:
