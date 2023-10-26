@@ -4,8 +4,6 @@ description2: "<sup>1</sup>Zhejiang University <sup>2</sup>Baidu VIS <sup>3</sup
 description3: "<sup>*</sup>Equal contribution <sup>#</sup>Corresponding author"
 github:
   repository_url: https://github.com/junkunyuan/HAP
-  is_project_page: true
-  repository_name: "| HAP: Structure-Aware Masked Image Modeling for Human-Centric Perception"
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
