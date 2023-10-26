@@ -113,14 +113,17 @@ a {
 
   @include large {
     padding: 5rem 6rem;
+    font-size: 3.25rem;
   }
 
   @include medium {
     padding: 3rem 4rem;
+    font-size: 3.25rem;
   }
 
   @include small {
     padding: 2rem 1rem;
+    font-size: 3.25rem;
   }
 }
 
