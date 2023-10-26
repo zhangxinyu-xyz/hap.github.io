@@ -5,6 +5,7 @@ description3: "<sup>*</sup>Equal contribution <sup>#</sup>Corresponding author"
 github.repository_url: https://github.com/junkunyuan/HAP
 show_downloads: true
 github.is_project_page: true
+repository_url: https://github.com/junkunyuan/HAP
 github.repository_name: "| HAP: Structure-Aware Masked Image Modeling for Human-Centric Perception"
 google_analytics:
 theme: jekyll-theme-cayman
